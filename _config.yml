@@ -17,7 +17,7 @@ lang: zh-CN
 title: 罗嘉怡在gitee的家
 email:
 description:
-baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
+baseurl: "/gagagapop" # the optional subpath of your site, e.g. "/blog"
 url: "https://jiayiluo.gitee.io/resume" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
