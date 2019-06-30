@@ -1,6 +1,6 @@
 ---
 layout: page
-title: * 非“颜”物语
+title: 非“颜”物语
 categories:
   - 平面设计
 ---
