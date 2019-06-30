@@ -16,11 +16,11 @@ img标签是直接使用img src=""的形式进行，而object是通过使用<obj
 | ------ | ------ | ------ |
 | SMIL动画 | Y | Y |
 | 外部css控制| N| *1 |
-|内部css控制|Y|Y
-|通过Javascript控制|N|Y
-|缓存|Y|Y
-|SVG内部的媒体查询|Y|Y
-|使用use|N|Y
+|内部css控制|Y|Y|
+|通过Javascript控制|N|Y|
+|缓存|Y|Y|
+|SVG内部的媒体查询|Y|Y|
+|使用use|N|Y|
 
 | | 内联 | 背景图片 | 
 | ------ | ------ | ------ |
