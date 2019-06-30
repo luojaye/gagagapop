@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 网页设计-设计基础
+excerpt_separator: "<!--more-->"
 categories:
   - 网站设计
 ---
 # 网页设计之基础
-1.网页包括有：网站logo、导航栏、banner、内容框、版尾。
+1.网页包括有：网站logo、导航栏、banner、内容框、版尾。<!--more-->
 * 网站logo作为一个网页标志。
 * 导航栏具有索引网站内容和快速访问所需内容的作用。
 * banner是作为一个页面的中心版面，具有突出中心要点的作用。
