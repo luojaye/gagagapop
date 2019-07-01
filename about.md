@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/about的banner图.jpg
 ---
 ## 个人基本信息
 * 姓名：罗嘉怡
