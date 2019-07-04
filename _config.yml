@@ -83,7 +83,6 @@ defaults:
     values:
       layout: post
       read_time: true
-			
 #gitment
 comment_gitment_repo: 仓库名
 comment_gitment_clientId: 用户ID
