@@ -13,3 +13,21 @@ layout: default
     </article>
   </div>
 </main>
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: '你的Github账户名',
+    repo: '用于存储评论的仓库',
+    oauth: {
+        client_id: '你的客户ID',
+        client_secret: '你的客户密钥',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+    </article>
+  </div>
+</main>
