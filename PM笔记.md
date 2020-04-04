@@ -1,5 +1,5 @@
 ---
-title: 学习笔记
+title: PM笔记
 layout: category
 permalink: /categories/PM笔记/
 taxonomy: PM笔记
